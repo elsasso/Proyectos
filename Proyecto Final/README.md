@@ -1,4 +1,4 @@
-# Proyecto Final - Final Proyect
+# Proyecto Final - Final Proyect - Java Spring Project
 Proyecto Final del curso de 600 horas Full Stack desarrollado por el Polo Tecnologico, Ministerio de trabajo de la Nacion y Universidad Nacional de Rosario.
 
 El proyecto trata sobre un sitio de publicaciones de mascotas perdidas y encontradas, problematica social siempre presente. Mediante este sitio intentamos de alguna forma que aquellos que perdieron mascotas, las puedan buscar en el sitio y si no estan, publicarlas como perdidas. 
